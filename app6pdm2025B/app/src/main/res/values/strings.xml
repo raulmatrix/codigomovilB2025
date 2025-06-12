@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">app6pdm2025B</string>
+
+    <string-array name="categoriaProductos">
+        <item>Lacteos</item>
+        <item>Verduras</item>
+        <item>Carnes</item>
+    </string-array>
+</resources>
